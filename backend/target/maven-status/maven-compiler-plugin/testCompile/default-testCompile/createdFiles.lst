@@ -1,0 +1,11 @@
+com/skilllink/auth/AuthIntegrationTest.class
+com/skilllink/exception/GlobalExceptionHandlerTest$TestPayload.class
+com/skilllink/auth/PasswordHashTest.class
+com/skilllink/exception/GlobalExceptionHandlerTest$SensitivePayload.class
+com/skilllink/auth/AuthRegisterTest.class
+com/skilllink/model/UserRoleTest.class
+com/skilllink/exception/GlobalExceptionHandlerTest$DummyController.class
+com/skilllink/auth/PasswordMatchTest.class
+com/skilllink/service/ApplicationServiceTest.class
+com/skilllink/service/JobServiceTest.class
+com/skilllink/exception/GlobalExceptionHandlerTest.class
